@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+/* Styles in geordneten Teilen; die Reihenfolge der Importe ist die Reihenfolge der Kaskade. */
+@import "./styles/01-base.css";
+@import "./styles/02-shell.css";
+@import "./styles/03-controls.css";
+@import "./styles/04-catalog.css";
+@import "./styles/05-product.css";
+@import "./styles/06-admin.css";
+@import "./styles/07-media.css";
+@import "./styles/08-login.css";
+@import "./styles/09-responsive.css";
